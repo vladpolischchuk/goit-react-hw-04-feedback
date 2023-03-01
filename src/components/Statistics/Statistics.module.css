@@ -1,0 +1,20 @@
+.stats__list {
+  margin: 0;
+  padding: 25px;
+
+  background-color: #00203f;
+
+  list-style: none;
+  border-radius: 10px;
+}
+
+.stats__item:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.stats__item {
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  text-transform: uppercase;
+}
