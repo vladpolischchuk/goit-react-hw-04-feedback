@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+// import { nanoid } from 'nanoid'
 import css from './Statistics.module.css';
 
 const Statistics = ({
